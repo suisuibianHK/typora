@@ -1,4 +1,11 @@
+
+
 # typora
+
+去typora中文网站下载1.9.5版本，然后安装
+https://typoraio.cn/releases/all
+
+
 typora破解版
 将解压后的node_inject.exe和license-gen.exe粘贴至Typora安装目录。
 
